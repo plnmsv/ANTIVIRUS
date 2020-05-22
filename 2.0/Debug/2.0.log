@@ -1,0 +1,9 @@
+﻿  Antivirus.cpp
+  Base.cpp
+  IObjectContent.cpp
+C:\Users\moise\source\repos\2.0\2.0\IObjectContent.cpp(9,26): warning C4244: =: преобразование "std::streamoff" в "int", возможна потеря данных
+  Record.cpp
+  ScanObject.cpp
+  ScanRegion.cpp
+  Создание кода...
+  2.0.vcxproj -> C:\Users\moise\source\repos\2.0\Debug\2.0.exe
